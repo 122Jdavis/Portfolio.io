@@ -1,0 +1,29 @@
+h1{
+  color:rgb(100,30,255);
+}
+h2 {
+  color:white;
+}
+h3 {
+font-size:9;
+}
+h4{
+  color:blue
+}
+li {
+  color:rgb(255,100,0)
+}
+p {
+  font-family: 'Modak', cursive
+}
+th {
+  color:red
+
+}
+table{
+  background-color:orange
+}
+.Golden{
+  color:#ffd700;
+  font-family: 'Nanum Gothic', sans-serif;
+} 
