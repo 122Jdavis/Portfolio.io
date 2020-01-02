@@ -26,4 +26,18 @@ table{
 .Golden{
   color:#ffd700;
   font-family: 'Nanum Gothic', sans-serif;
-} 
+}
+#Portfolio{
+  font-size:60px;
+  color:231, 10, 242;
+  font-family: 'Poppins', sans-serif;
+}
+.right{
+  position:absolute; right:300px
+}
+#school{
+  position:absolute; top: 300px;;
+}
+#schoolwebsite{
+  position:absolute; top: 400px;
+}
