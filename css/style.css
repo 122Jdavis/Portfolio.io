@@ -1,3 +1,6 @@
+body{
+  background-color:purple
+}
 h1{
   color:rgb(100,30,255);
 }
@@ -36,8 +39,22 @@ table{
   position:absolute; right:300px
 }
 #school{
-  position:absolute; top: 300px;;
+  position:absolute; top: 300px;
 }
 #schoolwebsite{
   position:absolute; top: 400px;
+  height:300px
+}
+#info{
+  font-size:20px;
+  color:cyan;
+  font-family: 'Modak', cursive;
+}
+#label{
+position:absolute; top:700px; right:300px
+}
+#insignia{
+  height:300px;
+  position:absolute; top: 50px;
+  right:100px;
 }
